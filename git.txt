@@ -1,0 +1,7 @@
+1. Criar um novo repositorio no Github
+2. git init
+3. git add .
+4. git commint -m "Introdução a padrões golang"
+5. git branch -M main
+6. git remote add origin https://github.com/luizkarlus/intro_golang.git
+7. git push -u origin main (-u sempre na primeira vez, caso contrario não é necessário)
